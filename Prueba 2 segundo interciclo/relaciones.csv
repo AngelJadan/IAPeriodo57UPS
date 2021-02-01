@@ -1,0 +1,91 @@
+;Origigen;;;Destino;
+Parque San Jose;2;0.25;0.6;3;Parque cdla. Modular
+Parque San Jose;2;1.4;0.22;4;Parque cdla. 16 de octubre
+Parque San Jose;2;1.96;2.7;5;Parque Acuatico Heroes Nacionales
+Parque cdla. Modular;3;0.5;2.5;4;Parque cdla. 16 de octubre
+Parque cdla. Modular;3;4.64;7.1;8;Parque a la Madre
+Parque cdla. 16 de octubre;4;2.79;4.6;6;Parque de la primavera 1
+Parque Acuatico Heroes Nacionales;5;1.3;2.6;6;Parque de la primavera 1
+Parque Acuatico Heroes Nacionales;5;1.71;3.2;7;Parque recreacional Cdla. Rio Guayas
+Parque recreacional Cdla. Rio Guayas;7;0.96;1.6;8;Parque a la Madre
+Parque de la primavera 1;6;1.29;2;8;Parque a la Madre
+Parque de la primavera 1;6;0.58;;9;Parque Colinas Del Valle
+Parque recreacional Cdla. Rio Guayas;7;0.32;0.55;6;Parque de la primavera 1
+Parque recreacional Cdla. Rio Guayas;7;1.22;1.8;9;Parque Colinas Del Valle
+;;;;;
+Parque Primavera;10;0.83;3.5;11;Skate Municipal De Durán prima. 2
+Parque Primavera;10;1.94;2.9;12;Parque Ecologico Duran
+Skate Municipal De Durán prima. 2;11;0.35;0.6;13;Parque Primavera 2
+Skate Municipal De Durán prima. 2;11;0.79;0.8;12;Parque Ecologico Duran
+Parque Ecologico Duran;12;0.91;1.6;13;Parque Primavera 2
+Parque Ecologico Duran;12;6.63;10.2;14;Cantera cerro grande
+Parque Primavera 2;13;5.68;9.3;14;Cantera cerro grande
+Parque Primavera 2;13;5.24;8.5;15;Primer Parque 4ta Et. Recreo
+Cantera cerro grande;14;0.91;2.2;15;Primer Parque 4ta Et. Recreo
+Cantera cerro grande;14;0.96;2.3;16;Canchas de Indor
+Primer Parque 4ta Et. Recreo;15;0.5;0.7;16;Canchas de Indor
+Primer Parque 4ta Et. Recreo;15;0.78;0.9;17;Parque De La 5ta Etapa
+;;;;;
+Parque;19;5;9.7;18;Areas verdes
+Parque;19;1.29;2.8;20;Hotel La Ría Durán
+Parque;19;5.06;5.1;21;Iglesia de dios duran
+Areas verdes;18;1.37;2.5;20;Hotel La Ría Durán
+Hotel La Ría Durán;20;5.02;6.8;21;Iglesia de dios duran
+Hotel La Ría Durán;20;3.64;4.9;22;Iglesia Católica Santa María Reina de las Familias
+Iglesia de dios duran;21;3.12;4.5;22;Iglesia Católica Santa María Reina de las Familias
+Iglesia Católica Santa María Reina de las Familias;22;3.88;7.3;23;La Iglesia de Jesucristo SUD Capilla Ponton
+Iglesia Católica Santa María Reina de las Familias;22;3.48;6.3;24;"Iglesia Evangelica ""La Resurreccion"""
+La Iglesia de Jesucristo SUD Capilla Ponton;23;1.38;2.6;25;Iglesia Evangélica Atrios de Alabanzas
+"Iglesia Evangelica ""La Resurreccion""";24;2.33;3.1;26;Iglesia Católica Inmaculada Concepción
+"Iglesia Evangelica ""La Resurreccion""";24;0.7;0.9;25;Iglesia Evangélica Atrios de Alabanzas
+Iglesia Evangélica Atrios de Alabanzas;25;2.17;3.6;26;Iglesia Católica Inmaculada Concepción
+Iglesia Católica Inmaculada Concepción;26;0.44;0.65;27;Iglesia Evangélica Apostólica del Nombre de Jesús
+Iglesia Evangélica Atrios de Alabanzas;25;1.82;2.9;27;Iglesia Evangélica Apostólica del Nombre de Jesús
+;;;;;
+El Shaddai Iglesia Cristiana;28;1.49;2.5;29;Parroquia 5 de Junio Durán
+El Shaddai Iglesia Cristiana;28;1.98;3;30;Iglesia Católica San Gabriel Arcángel - Durán
+Parroquia 5 de Junio Durán;29;0.54;1;30;Iglesia Católica San Gabriel Arcángel - Durán
+Parroquia 5 de Junio Durán;29;0.54;1.7;31;Local Iglesia de Dios en Duran
+Iglesia Católica San Gabriel Arcángel - Durán;30;2.18;4.5;32;Parroquia Jesús del Gran Poder
+Local Iglesia de Dios en Duran;31;2.72;4.8;32;Parroquia Jesús del Gran Poder
+Local Iglesia de Dios en Duran;31;3.11;5.3;33;Asamblea de Iglesias Cristianas Central
+Parroquia Jesús del Gran Poder;32;0.52;0.7;34;Iglesia Adventista Del 7mo Dia Los Helechos
+Parroquia Jesús del Gran Poder;32;0.43;0.6;33;Asamblea de Iglesias Cristianas Central
+Asamblea de Iglesias Cristianas Central;33;1.74;3.4;35;Concatedral Santuario Católico Divino Niño
+Iglesia Adventista Del 7mo Dia Los Helechos;34;1.79;3.4;35;Concatedral Santuario Católico Divino Niño
+Iglesia Adventista Del 7mo Dia Los Helechos;34;1.41;2.2;36;Iglesia duran
+Concatedral Santuario Católico Divino Niño;35;2;5.9;36;Iglesia duran
+;;;;;
+Iglesia MDS Durán;37;0.92;1.3;38;Estación de la aerovia Durán
+Iglesia MDS Durán;37;0.86;1.1;39;AEROVÍA DURÁN
+Estación de la aerovia Durán;38;0.14;1.8;39;AEROVÍA DURÁN
+Estación de la aerovia Durán;38;1.2;1.3;40;Coop De Transporte PRESIDENTE Eloy Alfaro
+Coop De Transporte PRESIDENTE Eloy Alfaro;40;3.42;5.3;41;"Terminal Terrestre de Durán ""Luis Rodas Toral"""
+Coop De Transporte PRESIDENTE Eloy Alfaro;40;3.47;5;42;Cooperativa De Transportes Ecuador
+"Terminal Terrestre de Durán ""Luis Rodas Toral""";41;0.14;0.29;43;Cooperativas Mariscal Sucre Trans S.A.N.
+Cooperativa De Transportes Ecuador;42;0.17;0.45;44;COOPERATIVA DE TRANSPORTE RIRCAY
+Cooperativa De Transportes Ecuador;42;0.03;0.45;43;Cooperativas Mariscal Sucre Trans S.A.N.
+Cooperativas Mariscal Sucre Trans S.A.N.;43;0.14;0.19;44;COOPERATIVA DE TRANSPORTE RIRCAY
+Cooperativas Mariscal Sucre Trans S.A.N.;43;0.36;1;45;Medigroup
+COOPERATIVA DE TRANSPORTE RIRCAY;44;0.36;0.95;45;Medigroup
+COOPERATIVA DE TRANSPORTE RIRCAY;44;1.97;4.2;46;Centro de Salud Tipo C El Recreo
+Medigroup;45;1.97;6.6;46;Centro de Salud Tipo C El Recreo
+Medigroup;45;2.6;5.8;47;Clinica Moreno
+Centro de Salud Tipo C El Recreo;46;0.29;0.4;47;Clinica Moreno
+Centro de Salud Tipo C El Recreo;46;2.85;6.1;48;Hospital General De 120 Camas - Durán
+Clinica Moreno;47;3.09;6.2;48;Hospital General De 120 Camas - Durán
+Clinica Moreno;47;3.6;4.3;49;Artes Graficas Senefelder
+Hospital General De 120 Camas - Durán;48;5;6.7;50;Pisicina Roquetas De Mar
+Artes Graficas Senefelder;49;5;6.1;50;Pisicina Roquetas De Mar
+;;;;;
+Parque San Jose;2;3.24;4.6;10;Parque Primavera
+Parque Primavera;10;0.97;1.3;19;Parque
+Parque;19;0.78;1.3;28;El Shaddai Iglesia Cristiana
+El Shaddai Iglesia Cristiana;28;2.1;2.8;37;Iglesia MDS Durán
+Iglesia MDS Durán;37;4.89;6.8;2;Parque San Jose
+;;;;;
+Piscina Aliss;1;1.44;2.2;2;Parque San Jose
+Piscina Aliss;1;2.04;3.3;10;Parque Primavera
+Piscina Aliss;1;2.95;4.4;19;Parque
+Piscina Aliss;1;1.99;3.1;28;El Shaddai Iglesia Cristiana
+Piscina Aliss;1;3.46;5.4;37;Iglesia MDS Durán
