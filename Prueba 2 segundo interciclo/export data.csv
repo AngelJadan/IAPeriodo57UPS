@@ -1,0 +1,135 @@
+"_id","_labels","lat","lon","name","_start","_end","_type","distancia","recorrido"
+"0",":Lugar","-2.1695201","-79.82371","Piscina Aliss",,,,,
+"1",":Lugar","-2.1639611","-79.81846","Parque San Jose",,,,,
+"2",":Lugar","-2.1639611","-79.81846","Parque cdla. Modular",,,,,
+"3",":Lugar","-2.1563901","-79.8199956","Parque cdla. 16 de octubre",,,,,
+"4",":Lugar","-2.1647219","-79.8284987","Parque Acuatico Heroes Nacionales",,,,,
+"5",":Lugar","-2.1679811","-79.846609","Parque de la primavera 1",,,,,
+"6",":Lugar","-2.1679811","-79.846609","Parque recreacional Cdla. Rio Guayas",,,,,
+"7",":Lugar","-2.1757861","-79.8507289","Parque a la Madre",,,,,
+"8",":Lugar","-2.1757861","-79.8507289","Parque Colinas Del Valle",,,,,
+"9",":Lugar","-2.1812753","-79.8506859","Parque Primavera",,,,,
+"10",":Lugar","-2.1812753","-79.8506859","Skate Municipal De Durán prima. 2",,,,,
+"11",":Lugar","-2.1812753","-79.8506859","Parque Ecologico Duran",,,,,
+"12",":Lugar","-2.1812753","-79.8506859","Parque Primavera 2",,,,,
+"13",":Lugar","-2.1780517","-79.8027142","Cantera cerro grande",,,,,
+"14",":Lugar","-2.1727774","-79.8003684","Primer Parque 4ta Et. Recreo",,,,,
+"15",":Lugar","-2.1709738","-79.8011604","Canchas de Indor",,,,,
+"16",":Lugar","-2.1709738","-79.8011604","Parque De La 5ta Etapa",,,,,
+"17",":Lugar","-2.1842531","-79.8450631","Areas verdes",,,,,
+"18",":Lugar","-2.1747908","-79.8304363","Parque",,,,,
+"19",":Lugar","-2.168413","-79.8491938","Hotel La Ría Durán",,,,,
+"20",":Lugar","-2.1766861","-79.8032343","Iglesia de dios duran",,,,,
+"21",":Lugar","-2.190073","-79.8256406","Iglesia Católica Santa María Reina de las Familias",,,,,
+"22",":Lugar","-2.1711368","-79.8536137","La Iglesia de Jesucristo SUD Capilla Ponton",,,,,
+"23",":Lugar","-2.1616151","-79.828621","Iglesia Evangelica ""La Resurreccion""",,,,,
+"24",":Lugar","-2.1616582","-79.8256654","Iglesia Evangélica Atrios de Alabanzas",,,,,
+"25",":Lugar","-2.1631054","-79.8451302","Iglesia Católica Inmaculada Concepción",,,,,
+"26",":Lugar","-2.167219","-79.836666","Iglesia Evangélica Apostólica del Nombre de Jesús",,,,,
+"27",":Lugar","-2.1692821","-79.8357102","El Shaddai Iglesia Cristiana",,,,,
+"28",":Lugar","-2.169409","-79.8290343","Parroquia 5 de Junio Durán",,,,,
+"29",":Lugar","-2.169409","-79.8290343","Iglesia Católica San Gabriel Arcángel - Durán",,,,,
+"30",":Lugar","-2.1776135","-79.8288279","Local Iglesia de Dios en Duran",,,,,
+"31",":Lugar","-2.1787814","-79.8453193","Parroquia Jesús del Gran Poder",,,,,
+"32",":Lugar","-2.182453","-79.8448294","Asamblea de Iglesias Cristianas Central",,,,,
+"33",":Lugar","-2.182453","-79.8448294","Iglesia Adventista Del 7mo Dia Los Helechos",,,,,
+"34",":Lugar","-2.1685686","-79.8360094","Concatedral Santuario Católico Divino Niño",,,,,
+"35",":Lugar","-2.1893597","-79.8535349","Iglesia duran",,,,,
+"36",":Lugar","-2.1820205","-79.8538967","Iglesia MDS Durán",,,,,
+"37",":Lugar","-2.1874636","-79.8589169","Estación de la aerovia Durán",,,,,
+"38",":Lugar","-2.1868536","-79.8591039","AEROVÍA DURÁN",,,,,
+"39",":Lugar","-2.1781879","-79.8551869","Coop De Transporte PRESIDENTE Eloy Alfaro",,,,,
+"40",":Lugar","-2.1788166","-79.8243425","Terminal Terrestre de Durán ""Luis Rodas Toral""",,,,,
+"41",":Lugar","-2.1783624","-79.8239815","Cooperativa De Transportes Ecuador",,,,,
+"42",":Lugar","-2.1783624","-79.8239815","Cooperativas Mariscal Sucre Trans S.A.N.",,,,,
+"43",":Lugar","-2.1783624","-79.8239815","COOPERATIVA DE TRANSPORTE RIRCAY",,,,,
+"44",":Lugar","-2.1797415","-79.8256751","Medigroup",,,,,
+"45",":Lugar","-2.1750525","-79.8071282","Centro de Salud Tipo C El Recreo",,,,,
+"46",":Lugar","-2.1750525","-79.8071282","Clinica Moreno",,,,,
+"47",":Lugar","-2.1886777","-79.8303695","Hospital General De 120 Camas - Durán",,,,,
+"48",":Lugar","-2.1873055","-79.8269951","Artes Graficas Senefelder",,,,,
+"49",":Lugar","-2.1639377","-79.7873946","Pisicina Roquetas De Mar",,,,,
+,,,,,"1","2","DISTANCIA","0.25","0.6"
+,,,,,"1","3","DISTANCIA","1.4","0.22"
+,,,,,"1","4","DISTANCIA","1.96","2.7"
+,,,,,"2","3","DISTANCIA","0.5","2.5"
+,,,,,"2","7","DISTANCIA","4.64","7.1"
+,,,,,"3","5","DISTANCIA","2.79","4.6"
+,,,,,"4","5","DISTANCIA","1.3","2.6"
+,,,,,"4","6","DISTANCIA","1.71","3.2"
+,,,,,"6","7","DISTANCIA","0.96","1.6"
+,,,,,"5","7","DISTANCIA","1.29","2"
+,,,,,"5","8","DISTANCIA","0.58","0.6"
+,,,,,"6","5","DISTANCIA","0.32","0.55"
+,,,,,"6","8","DISTANCIA","1.22","1.8"
+,,,,,"9","10","DISTANCIA","0.83","3.5"
+,,,,,"9","11","DISTANCIA","1.94","2.9"
+,,,,,"10","12","DISTANCIA","0.35","0.6"
+,,,,,"10","11","DISTANCIA","0.79","0.8"
+,,,,,"11","12","DISTANCIA","0.91","1.6"
+,,,,,"11","13","DISTANCIA","6.63","10.2"
+,,,,,"12","13","DISTANCIA","5.68","9.3"
+,,,,,"12","14","DISTANCIA","5.24","8.5"
+,,,,,"13","14","DISTANCIA","0.91","2.2"
+,,,,,"13","15","DISTANCIA","0.96","2.3"
+,,,,,"14","15","DISTANCIA","0.5","0.7"
+,,,,,"14","16","DISTANCIA","0.78","0.9"
+,,,,,"18","17","DISTANCIA","5","9.7"
+,,,,,"18","19","DISTANCIA","1.29","2.8"
+,,,,,"18","20","DISTANCIA","5.06","5.1"
+,,,,,"17","19","DISTANCIA","1.37","2.5"
+,,,,,"19","20","DISTANCIA","5.02","6.8"
+,,,,,"19","21","DISTANCIA","3.64","4.9"
+,,,,,"20","21","DISTANCIA","3.12","4.5"
+,,,,,"21","22","DISTANCIA","3.88","7.3"
+,,,,,"21","23","DISTANCIA","3.48","6.3"
+,,,,,"22","24","DISTANCIA","1.38","2.6"
+,,,,,"23","25","DISTANCIA","2.33","3.1"
+,,,,,"23","24","DISTANCIA","0.7","0.9"
+,,,,,"24","25","DISTANCIA","2.17","3.6"
+,,,,,"25","26","DISTANCIA","0.44","0.65"
+,,,,,"24","26","DISTANCIA","1.82","2.9"
+,,,,,"27","28","DISTANCIA","1.49","2.5"
+,,,,,"27","29","DISTANCIA","1.98","3"
+,,,,,"28","29","DISTANCIA","0.54","1"
+,,,,,"28","30","DISTANCIA","0.54","1.7"
+,,,,,"29","31","DISTANCIA","2.18","4.5"
+,,,,,"30","31","DISTANCIA","2.72","4.8"
+,,,,,"30","32","DISTANCIA","3.11","5.3"
+,,,,,"31","33","DISTANCIA","0.52","0.7"
+,,,,,"31","32","DISTANCIA","0.43","0.6"
+,,,,,"32","34","DISTANCIA","1.74","3.4"
+,,,,,"33","34","DISTANCIA","1.79","3.4"
+,,,,,"33","35","DISTANCIA","1.41","2.2"
+,,,,,"34","35","DISTANCIA","2","5.9"
+,,,,,"36","37","DISTANCIA","0.92","1.3"
+,,,,,"36","38","DISTANCIA","0.86","1.1"
+,,,,,"37","38","DISTANCIA","0.14","1.8"
+,,,,,"37","39","DISTANCIA","1.2","1.3"
+,,,,,"39","40","DISTANCIA","3.42","5.3"
+,,,,,"39","41","DISTANCIA","3.47","5"
+,,,,,"40","42","DISTANCIA","0.14","0.29"
+,,,,,"41","43","DISTANCIA","0.17","0.45"
+,,,,,"41","42","DISTANCIA","0.03","0.45"
+,,,,,"42","43","DISTANCIA","0.14","0.19"
+,,,,,"42","44","DISTANCIA","0.36","1"
+,,,,,"43","44","DISTANCIA","0.36","0.95"
+,,,,,"43","45","DISTANCIA","1.97","4.2"
+,,,,,"44","45","DISTANCIA","1.97","6.6"
+,,,,,"44","46","DISTANCIA","2.6","5.8"
+,,,,,"45","46","DISTANCIA","0.29","0.4"
+,,,,,"45","47","DISTANCIA","2.85","6.1"
+,,,,,"46","47","DISTANCIA","3.09","6.2"
+,,,,,"46","48","DISTANCIA","3.6","4.3"
+,,,,,"47","49","DISTANCIA","5","6.7"
+,,,,,"48","49","DISTANCIA","5","6.1"
+,,,,,"1","9","DISTANCIA","3.24","4.6"
+,,,,,"9","18","DISTANCIA","0.97","1.3"
+,,,,,"18","27","DISTANCIA","0.78","1.3"
+,,,,,"27","36","DISTANCIA","2.1","2.8"
+,,,,,"36","1","DISTANCIA","4.89","6.8"
+,,,,,"0","1","DISTANCIA","1.44","2.2"
+,,,,,"0","9","DISTANCIA","2.04","3.3"
+,,,,,"0","18","DISTANCIA","2.95","4.4"
+,,,,,"0","27","DISTANCIA","1.99","3.1"
+,,,,,"0","36","DISTANCIA","3.46","5.4"
